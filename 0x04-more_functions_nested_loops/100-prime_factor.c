@@ -10,6 +10,7 @@ int main(void)
 {
 	unsigned long num = 612852475143;
 	unsigned long div = 2;
+
 	while (div < num)
 	{
 		if (num % div == 0)
