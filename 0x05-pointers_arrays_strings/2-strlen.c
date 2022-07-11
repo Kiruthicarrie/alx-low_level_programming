@@ -6,7 +6,7 @@
 *Return: success
 */
 
-int _strlen(char *s)
+int _strlen(char *c)
 {
 int length;
 length = strlen(s);
