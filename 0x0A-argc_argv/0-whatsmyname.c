@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - check the code for Holberton School students.
+ * main - Main Description
  * @argc : argc contains the number of arguments passed to the program
  * @argv : A vector is a one-dimensional array
  * Return: Always 0.
