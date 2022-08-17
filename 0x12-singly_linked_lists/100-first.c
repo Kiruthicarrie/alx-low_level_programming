@@ -4,12 +4,6 @@
  * Description: execute before main
  * Return: Nothing
  */
-#include <stdio.h>
-/**
- * __start - execute before main
- * Description: execute before main
- * Return: Nothing
- */
 void __start(void) __attribute__((constructor));
 
 void __start(void)
